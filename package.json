@@ -55,6 +55,7 @@
     "scripts/setup-offload.sh",
     "hermes-plugin/",
     "claude-code-plugin/",
+    "docs/adapters/",
     "openclaw.plugin.json",
     "README.md",
     "CHANGELOG.md",
